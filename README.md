@@ -1,7 +1,7 @@
 <h1> Hi, I'm Mahdi 👨🏻‍💻 </h1>
 
 I am an AI researcher and engineer with a strong passion for Generative AI. Proficient in PyTorch,
-I have experience working with large datasets and models at a billion-scale. I am always eager to learn and
+I have experience working with large datasets and models at a billion-parameter scale. I am always eager to learn and
 explore new domains to uncover innovative ideas and applications using deep learning. Currently, I am pursuing a PhD,
 focusing on protein language models and their applications in bioinformatics and drug design.
 
