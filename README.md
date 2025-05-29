@@ -14,7 +14,6 @@ focusing on protein language models and their applications in bioinformatics and
 
 ## Connect
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdip94/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mahdip94)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdipoormirzaie@gmail.com)
 
 ## Github Stats
