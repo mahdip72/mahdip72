@@ -19,6 +19,7 @@ focusing on protein language models and their applications in bioinformatics and
 ## Github Stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=mahdip72&show_icons=true&theme=dracula)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mahdip72&card_height=250&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact' alt="Mahdi's Top Languages" align="right" width="220"/>
+[lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=mahdip72&show_icons=true&count_private=true&line_height=50)
 
 
 ## My Skills
