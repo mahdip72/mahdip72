@@ -10,7 +10,7 @@ focusing on protein language models and their applications in bioinformatics and
 * Protein Design
 * Generative AI
 * Bioinformatics
-* multi-Modal Learning
+* Multi-Modal Learning
 ------------------------
 
 ## Connect
