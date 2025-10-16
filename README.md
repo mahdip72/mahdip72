@@ -7,9 +7,10 @@ focusing on protein language models and their applications in bioinformatics and
 
 
 ## Interests
-* Computer Vision
+* Protein Design
 * Generative AI
 * Bioinformatics
+* multi-Modal Learning
 ------------------------
 
 ## Connect
