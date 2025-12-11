@@ -18,7 +18,7 @@ focusing on protein language models and their applications in bioinformatics and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdipoormirzaie@gmail.com)
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?mahdip72=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/mahdip72DenverCoder1)](https://git.io/streak-stats)
 
 
 ## My Skills
