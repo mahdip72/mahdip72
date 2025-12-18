@@ -18,8 +18,7 @@ focusing on protein language models and their applications in bioinformatics and
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdipoormirzaie@gmail.com)
 
 ## Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mahdip72)](https://git.io/streak-stats)
-
+![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=mahdip72&show_icons=true&count_private=true&line_height=50)
 
 ## My Skills
 <img src='https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue'/> <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white'/> <img src='https://img.shields.io/badge/Hugging%20Face-FFD43B?style=flat&logo=huggingface&logoColor=blue'/> <img src='https://img.shields.io/badge/Accelerate-EE4C2C?style=flat&logo=accelerate&logoColor=white'/> <img src='https://img.shields.io/badge/PEFT-%23013243.svg?style=flat&logo=peft&logoColor=white'/> <img src='https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white'/> <img src='https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white'/> <img src='https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white'/> <img src='https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black'/> <img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/> <img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
